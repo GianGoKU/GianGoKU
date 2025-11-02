@@ -3,7 +3,7 @@
 🎯 **Senior Full Stack Developer (.NET Core | AngularJS | React)**  
 💼 Based in Zamboanga City, Philippines  
 📧 giankarlo.go@gmail.com | 📱 +63 927 205 9055  
-🌐 [LinkedIn](#) | [Portfolio / Resume Repo](#)
+🌐 [LinkedIn](https://www.linkedin.com/in/goku14/) | [Portfolio / Resume Repo](#)
 
 ---
 
@@ -91,8 +91,8 @@ _Oct 2019 – Jul 2021_
 
 ## 📫 Get in Touch
 💌 **Email:** [giankarlo.go@gmail.com](mailto:giankarlo.go@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/giankarlogo](#)  
-💻 **GitHub:** [github.com/giankarlogo](https://github.com/giankarlogo)
+💼 **LinkedIn:** [linkedin.com/in/giankarlogo](https://www.linkedin.com/in/goku14/)  
+💻 **GitHub:** [github.com/giankarlogo](https://github.com/GianGoKU)
 
 ---
 
