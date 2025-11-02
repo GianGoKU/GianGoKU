@@ -68,7 +68,7 @@ _Oct 2019 – Jul 2021_
 ---
 
 ## 🧾 Certifications
-- Professional Career Service Eligibility Examination (March 2018)
+- Philippines Civil Service Professional Eligibility (March 2018)
 
 ---
 
