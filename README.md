@@ -1,99 +1,57 @@
-# 👋 Hi, I'm Gian Karlo Go
-
-🎯 **Senior Full Stack Developer (.NET Core | AngularJS | React)**  
-💼 Based in Zamboanga City, Philippines  
-📧 giankarlo.go@gmail.com | 📱 +63 927 205 9055  
-🌐 [LinkedIn](https://www.linkedin.com/in/goku14/) | [Portfolio / Resume Repo](#)
-
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:1976D2&height=100&section=header&text=Gian%20Karlo%20Go&fontColor=FFFFFF&fontSize=40&fontAlignY=55)
+# :wave: Hi, I'm Gian Karlo Go
+:dart: **Full Stack Developer | .NET MVC | React | Next.js | SQL | C# | Java | Python**
+I’m a full stack developer with 5+ years of experience building enterprise-grade systems using modern web technologies. 
+Passionate about creating scalable, efficient, and meaningful solutions that empower people and businesses.
 ---
-
-## 🧠 About Me
-I'm a **Senior Full Stack Developer** with 5+ years of experience designing and developing enterprise-grade applications using **.NET Core 4.8+, .NET 6.0+, AngularJS, React,** and **SQL Server**.  
-I enjoy solving complex problems through clean architecture and efficient design — turning real-world business processes into reliable, scalable systems.
-
-💡 Passionate about:
-- Modern web app development and API design  
-- Clean architecture and performance optimization  
-- Mentoring junior developers and leading agile teams  
-- Building technology that makes a real difference
-
+### :brain: About Me
+:computer: Full Stack Developer at **AKA Software Inc.**
+:mortar_board: Former **Instructor** at Ateneo de Zamboanga University (AI & Android Programming)
+:jigsaw: Skilled in **.NET MVC, REST APIs, React, Next.js, and SQL Server**
+:rocket: Focused on clean code, maintainable architecture, and problem-solving
+:trophy: *Android Masters PH Finalist (2016 – Games Category)*
 ---
-
-## 🧰 Tech Stack
-
-**Frameworks & Libraries:**  
-`.NET 4.8+`, `.NET Core`, `.NET 6.0+`, `AngularJS`, `React`, `Next.js`, `Node.js`
-
-**Languages:**  
-`C#`, `JavaScript`, `TypeScript`, `Python`, `Java`, `C++`, `PHP`, `SQL`, `HTML`, `CSS`
-
-**Databases:**  
-`SQL Server`, `PostgreSQL`, `MySQL`, `Firebase`, `SAP SQL`
-
-**Tools & Platforms:**  
-`Visual Studio`, `VS Code`, `Git`, `Postman`, `Docker`, `Crystal Reports`
-
-**Other Tools:**  
-`Android Studio`, `WordPress`, `Adobe XD`, `Unity`
-
+### :hammer_and_wrench: Tech Stack
+#### :speech_balloon: Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+#### :toolbox: Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### :file_cabinet: Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
-
-## 💼 Professional Experience
-
-### **Senior Full Stack Developer | AKA Software Inc.**
-_May 2023 – Present (Promoted August 2025)_  
-- Lead the development of enterprise applications using .NET Core 4.8+, .NET 6.0+, AngularJS, and React Next.js  
-- Conduct code reviews and mentor junior developers  
-- Collaborate with business analysts and QA for requirement analysis and testing  
-- Design RESTful APIs and optimize backend performance with SQL Server and PostgreSQL  
-- Contribute to architecture planning and CI/CD pipeline improvements  
-
-### **Full Stack Software Developer | Freelance**
-_Jan 2022 – Dec 2024_  
-- Built and deployed custom business applications for local enterprises  
-- Integrated Crystal Reports into SAP ERP systems  
-- Developed middleware and reporting tools for finance and retail systems  
-
-### **Web Developer / System Programmer | Emergence Systems and Solutions**
-_Oct 2019 – Jul 2021_  
-- Built middleware automation tools integrating SAP and POS systems  
-- Developed and maintained web-based management and financial systems  
-
+### :briefcase: Experience Snapshot
+**Full Stack Developer – AKA Software Inc.** 
+Building and maintaining enterprise applications using .NET MVC and React Next.js. 
+Focus on backend REST APIs, system integration, and scalable database structures.
+**Freelance Software Developer (2022–2024)** 
+Developed multiple full-stack systems, SAP Crystal Reports, and automation tools for local enterprises.
+**Instructor – Ateneo de Zamboanga University (2023)** 
+Taught AI and Android Programming under the College of Science and IT.
 ---
-
-## 🎓 Education
-**BS Computer Science**, Ateneo de Zamboanga University (2019)  
-🏅 Programmer of the Year (2017) | Android Masters PH Finalist (2016) | Academic Honors  
-
+### :mortar_board: Education
+**BS in Computer Science** – Ateneo de Zamboanga University 
+:sports_medal: *Programmer of the Year • Academic Honor • Android Masters PH Finalist*
 ---
-
-## 🧾 Certifications
-- Philippines Civil Service Professional Eligibility (March 2018)
-
+### :globe_with_meridians: Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goku14/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GianGoKU)
+[![Email](https://img.shields.io/badge/Email-giankarlo.go%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giankarlo.go@gmail.com)
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| **Financial Management System** | Enterprise .NET MVC and SQL-based accounting and tracking tool | .NET MVC, SQL Server |
-| **POS Middleware Automation** | Automated SAP and POS synchronization for retail operations | .NET Core, SQL, SFTP |
-| **React Dashboard Template** | Admin interface with dynamic REST API integration | React, Node.js, REST API |
-
+### :bar_chart: GitHub Stats
+![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianGoKU&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianGoKU&layout=compact&theme=tokyonight)
 ---
-
-## 🌱 Currently Exploring
-- Microservices architecture with .NET 8  
-- Advanced Angular and React patterns  
-- DevOps pipelines (Azure DevOps & GitHub Actions)
-
----
-
-## 📫 Get in Touch
-💌 **Email:** [giankarlo.go@gmail.com](mailto:giankarlo.go@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/giankarlogo](https://www.linkedin.com/in/goku14/)  
-💻 **GitHub:** [github.com/giankarlogo](https://github.com/GianGoKU)
-
----
-
-> _“Code with purpose. Build with clarity.”_
+:star: _“Code with purpose. Design with empathy.”_
