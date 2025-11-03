@@ -4,13 +4,19 @@
 :dart: **Full Stack Developer | .NET MVC | React | Next.js | SQL | C# | Java | Python**
 I’m a full stack developer with 5+ years of experience building enterprise-grade systems using modern web technologies. 
 Passionate about creating scalable, efficient, and meaningful solutions that empower people and businesses.
+
 ---
 ### :brain: About Me
 :computer: Full Stack Developer at **AKA Software Inc.**
+
 :mortar_board: Former **Instructor** at Ateneo de Zamboanga University (AI & Android Programming)
+
 :jigsaw: Skilled in **.NET MVC, REST APIs, React, Next.js, and SQL Server**
+
 :rocket: Focused on clean code, maintainable architecture, and problem-solving
+
 :trophy: *Android Masters PH Finalist (2016 – Games Category)*
+
 ---
 ### :hammer_and_wrench: Tech Stack
 #### :speech_balloon: Languages
@@ -31,19 +37,24 @@ Passionate about creating scalable, efficient, and meaningful solutions that emp
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ---
 ### :briefcase: Experience Snapshot
 **Full Stack Developer – AKA Software Inc.** 
 Building and maintaining enterprise applications using .NET MVC and React Next.js. 
 Focus on backend REST APIs, system integration, and scalable database structures.
+
 **Freelance Software Developer (2022–2024)** 
 Developed multiple full-stack systems, SAP Crystal Reports, and automation tools for local enterprises.
+
 **Instructor – Ateneo de Zamboanga University (2023)** 
 Taught AI and Android Programming under the College of Science and IT.
+
 ---
 ### :mortar_board: Education
 **BS in Computer Science** – Ateneo de Zamboanga University 
 :sports_medal: *Programmer of the Year • Academic Honor • Android Masters PH Finalist*
+
 ---
 ### :globe_with_meridians: Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goku14/)
@@ -53,5 +64,6 @@ Taught AI and Android Programming under the College of Science and IT.
 ### :bar_chart: GitHub Stats
 ![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianGoKU&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianGoKU&layout=compact&theme=tokyonight)
+
 ---
 :star: _“Code with purpose. Design with empathy.”_
