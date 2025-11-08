@@ -84,10 +84,4 @@ Taught Artificial Intelligence and Android Programming.
 
 ---
 
-### :bar_chart: GitHub Stats
-![Gian's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianGoKU&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianGoKU&layout=compact&theme=tokyonight)
-
----
-
 :star: _“Code with purpose. Build with clarity.”_
